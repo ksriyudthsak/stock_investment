@@ -14,3 +14,4 @@ st.header(option)
 if option == 'trend':
     st.subheader("This is a trend page")
 
+
